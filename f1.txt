@@ -5,3 +5,4 @@ step4 b1
 step5 b1
 step6 b2
 step7 b2
+step8 b2
